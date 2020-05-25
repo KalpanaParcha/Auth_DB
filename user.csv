@@ -1,0 +1,3 @@
+"user_id";"username";"password";"enabled";"email";"account_expired";"credentials_expired";"account_locked"
+1;"admin";"$2a$10$dGyg8e3Ukze8TcnGvZB9KeKLoS.j4wIDcNSV5iR3rQ92LH3t2UeJO";"1";"abc@gmail.com";"0";"0";"0"
+2;"user";"$2a$10$dGyg8e3Ukze8TcnGvZB9KeKLoS.j4wIDcNSV5iR3rQ92LH3t2UeJO";"1";"def@gmail.com";"0";"0";"0"
